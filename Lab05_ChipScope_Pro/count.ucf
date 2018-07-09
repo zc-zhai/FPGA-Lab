@@ -1,0 +1,10 @@
+NET "count<0>" LOC = "E11";
+NET "count<1>" LOC = "F11";
+NET "count<2>" LOC = "C11";
+NET "count<3>" LOC = "D11";
+NET "count<4>" LOC = "E9";
+NET "count<5>" LOC = "F9";
+
+NET "clock" LOC = "C9";
+NET "rst_n" LOC = "L13";
+NET "dir" LOC = "L14";
