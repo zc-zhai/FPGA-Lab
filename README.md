@@ -1,5 +1,5 @@
 # FPGA-Lab
-Field-Programmable Gate Array Labs is a set of course projects which implements different functions and meets specific requirements such as counting or monitoring.<br>
+Field-Programmable Gate Array Lab is a set of course projects which implement different functions and meet specific requirements such as counting or monitoring.<br>
 Based on Spartan-3E_FPGA_Starter_Kit_Board.<br>
 Written in Verilog.
 ## File Description
